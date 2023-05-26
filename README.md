@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=JAEHA PARK's%20Github&fontSize=30&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=JAEHA%20PARK's%20Github&fontSize=30&fontAlignY=30)
 
 ## :octocat: IM READY TO FLY!
 #### Skills
