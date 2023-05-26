@@ -14,5 +14,5 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?&logo=linux&logoColor=black)
 
 ### STATS
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjha999)](https://solved.ac/pjha999/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjha999)](https://solved.ac/profile/pjha999/)
 ![JAEHA PARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=soddokayo&show_icons=true&theme=radical)
