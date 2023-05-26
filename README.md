@@ -9,7 +9,7 @@
 #### 고려대학교 일반대학원 정보보안학과 - 2021 ~ 
 
 ### SKILLS
-![C](https://img.shields.io/badge/c-3776AC?logo=c&logoColor=yellow)
+![C/C++](https://img.shields.io/badge/Git-F05032?&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?&logo=linux&logoColor=black)
 
