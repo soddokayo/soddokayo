@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @soddokayo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=JAEHA PARK's%20Github&fontSize=30&fontAlignY=30)
 
-<!---
-soddokayo/soddokayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## :octocat: IM READY TO FLY!
+#### Skills
+
+- BACK-END
+- CYBERSECURITY
+
+#### Github
+![JAEHA PARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=soddokayo&show_icons=true&theme=radical)
